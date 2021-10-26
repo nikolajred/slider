@@ -56,8 +56,6 @@ h1{
 .arrow_left img, .arrow_right img{
 	width: 200px;
 	margin: 10px;
-	
-	/**/
 }
 
 .button{
@@ -78,6 +76,15 @@ h1{
 	letter-spacing: 30px;
 	font-style: oblique;
 	text-align:center;
+}
+
+.images{
+	width: 600px;
+	height: 200px;
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: auto;
+	margin-right: auto
 }
 
 /*.myButton{
